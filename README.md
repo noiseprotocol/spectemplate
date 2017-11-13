@@ -4,6 +4,6 @@ This directory contains a template for writing extension documents for the Noise
 
 Extensions are written using Pandoc-flavored Markdown.  The Makefile in this directory converts the Markdown to HTML and PDF format using pandoc and pandoc-citeproc.
 
-This template requires a `spectools` directory containing some additional Pandoc input files, which is pointed to the by SPECTOOLS environment variable.
+This template requires a `spectools` directory containing some additional pandoc input files, which is pointed to by the SPECTOOLS environment variable.
 
 
