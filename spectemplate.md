@@ -89,4 +89,3 @@ This document is hereby placed in the public domain.
 Make sure to acknowledge prior and related work, and others who contributed.
 
 # 9.  References
-================
